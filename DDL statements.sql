@@ -1,4 +1,4 @@
--- Q1: Create dept1
+-- Q1: Create d
 CREATE TABLE dept1(
     deptno INTEGER PRIMARY KEY,
     dname VARCHAR2(30) NOT NULL,
